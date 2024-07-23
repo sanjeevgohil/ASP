@@ -24,7 +24,7 @@
     {
         // Code that runs when a new session is started
         int counter = Convert.ToInt32(Application["visitor"]) + 1;
-        Application["visitor"]  =counter;
+        Application["visitor"]  = counter;
     }
 
     void Session_End(object sender, EventArgs e) 

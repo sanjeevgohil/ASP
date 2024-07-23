@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>/upload/art1.jpg</ImageUrl>
+    <NavigateUrl>http://www.rediff.com</NavigateUrl>
+    <AlternateText>Go To Rediff.Com</AlternateText>
+    <Keyword>E-Mail</Keyword>
+    <Impressions>1</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>/upload/Om.jpg</ImageUrl>
+    <NavigateUrl>http://www.microsoft.com</NavigateUrl>
+    <AlternateText>Go To Microsoft.Com</AlternateText>
+    <Keyword>E-Mail</Keyword>
+    <Impressions>2</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>/upload/animals21.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>Go To Microsoft.Com</AlternateText>
+    <Keyword>E-Mail</Keyword>
+    <Impressions>3</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>/upload/art2.jpg</ImageUrl>
+    <NavigateUrl>http://www.yahoo.com</NavigateUrl>
+    <AlternateText>Go To Microsoft.Com</AlternateText>
+    <Keyword>E-Mail</Keyword>
+    <Impressions>4</Impressions>
+  </Ad>
+</Advertisements>
