@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Id>1</Id>
+    <name>Raj</name>
+    <city>Amd</city>
+  </Table>
+  <Table>
+    <Id>2</Id>
+    <name>Param</name>
+    <city>Jnd</city>
+  </Table>
+  <Table>
+    <Id>3</Id>
+    <name>Ramesh</name>
+    <city>Rjt</city>
+  </Table>
+  <Table>
+    <Id>4</Id>
+    <name>Ram</name>
+    <city>Anand</city>
+  </Table>
+</NewDataSet>

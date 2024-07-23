@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Products>
+  <Product>
+    <ProductID>MS-101</ProductID>
+    <ProductName>Mouse</ProductName>
+    <Company>I-Ball</Company>
+    <Quantity>500</Quantity>
+    <Price>350</Price>
+  </Product>
+  <Product>
+    <ProductID>KB-102</ProductID>
+    <ProductName>Keyboard</ProductName>
+    <Company>I-Ball</Company>
+    <Quantity>340</Quantity>
+    <Price>350</Price>
+  </Product>
+  <Product>
+    <ProductID>Pr-223</ProductID>
+    <ProductName>Processor</ProductName>
+    <Company>Intel Pro</Company>
+    <Quantity>100</Quantity>
+    <Price>3500</Price>
+  </Product>
+  <Product>
+    <ProductID>KB-103</ProductID>
+    <ProductName>KeuBoard</ProductName>
+    <Company>TVS</Company>
+    <Quantity>200</Quantity>
+    <Price>150</Price>
+  </Product>
+</Products>
