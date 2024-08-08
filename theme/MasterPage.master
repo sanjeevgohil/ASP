@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Your Website</title>
+    <link rel="stylesheet" href="StyleSheet.css"/> <!-- Link to your CSS file -->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header">
+            <!-- Header content goes here -->
+            <h1>Welcome to My Website</h1>
+            <!-- Menu control -->
+           
+        </div>
+        <div>
+             <asp:Menu class="Menu" runat="server">
+                <Items>
+                    <asp:MenuItem Text="Home" NavigateUrl="~/Default.aspx" />
+                    <asp:MenuItem Text="About" NavigateUrl="~/About.aspx" />
+                </Items>
+            </asp:Menu>
+        </div>
+        <div id="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="footer">
+            <!-- Footer content goes here -->
+            <p>&copy; 2024 Your Website. All rights reserved.</p>
+        </div>
+    </form>
+</body>
+</html>
